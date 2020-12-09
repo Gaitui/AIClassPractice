@@ -1,4 +1,3 @@
-//HW1 A1045518 Greedy BFS
 #include<iostream>
 #include<fstream>
 #include<vector>
