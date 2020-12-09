@@ -1,4 +1,4 @@
-//HW1 A1045518 DFS
+//HW1 DFS
 #include<iostream>
 #include<fstream>
 #include<stack>
