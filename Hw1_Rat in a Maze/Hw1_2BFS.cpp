@@ -1,4 +1,4 @@
-//HW1 A1045518 BFS
+//HW1 BFS
 #include<iostream>
 #include<fstream>
 #include<vector>
