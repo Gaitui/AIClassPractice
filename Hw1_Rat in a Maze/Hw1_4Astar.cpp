@@ -1,4 +1,4 @@
-//HW1 A1045518 A*
+//HW1 A*
 #include<iostream>
 #include<fstream>
 #include<vector>
